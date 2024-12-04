@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9pz/ObbgBlJHh3DO60kBMR9/cPVjDocyTJ747EVn1RcNhZVr6y6KPnrygqsxzx+DJAQgS/qe6kjFTNI+AFBWUQ==",
+  "dgSpecHash": "E14InyDLG7/Buoya5KE6hhCrU/SHrUU+cPxb/ztUv5ADklmrBdLS8okeGPMdzj0StaNvIEdWuAA2JbfMNaTPoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.INFRASTRUCTURE\\ChatApp.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Personal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Personal\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",

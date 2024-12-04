@@ -27,11 +27,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.CORE\\ChatApp.Core.csproj": {
-                "projectPath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.CORE\\ChatApp.Core.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -100,7 +96,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.APPLICATION\\ChatApp.Application.csproj": {
+                "projectPath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.APPLICATION\\ChatApp.Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -118,6 +118,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -172,6 +176,9 @@
             "projectReferences": {
               "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.APPLICATION\\ChatApp.Application.csproj": {
                 "projectPath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.APPLICATION\\ChatApp.Application.csproj"
+              },
+              "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.CORE\\ChatApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.CORE\\ChatApp.Core.csproj"
               }
             }
           }

@@ -1,4 +1,4 @@
-﻿namespace ChatApp.Core.Entities
+﻿namespace ChatApp.Application.Entities
 {
     public class User
     {

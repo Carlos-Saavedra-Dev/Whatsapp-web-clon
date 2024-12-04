@@ -88,22 +88,6 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
-      },
-      "ChatApp.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Swashbuckle.AspNetCore": "6.4.0"
-        },
-        "compile": {
-          "bin/placeholder/ChatApp.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChatApp.Core.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -436,16 +420,10 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
-    },
-    "ChatApp.Core/1.0.0": {
-      "type": "project",
-      "path": "../ChatApp.CORE/ChatApp.Core.csproj",
-      "msbuildProject": "../ChatApp.CORE/ChatApp.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ChatApp.Core >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -475,11 +453,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.CORE\\ChatApp.Core.csproj": {
-              "projectPath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.CORE\\ChatApp.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

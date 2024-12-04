@@ -1,5 +1,5 @@
-﻿namespace ChatApp.Core.Entities
-{
+﻿namespace ChatApp.Application.Entities
+{ 
     public class Chat
     {
         public Guid Id { get; set; }

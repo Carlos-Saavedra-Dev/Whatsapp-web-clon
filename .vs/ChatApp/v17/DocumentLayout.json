@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8F659705-7262-4C82-BFE9-161CC211C627}|ChatApp.API\\ChatApp.API.csproj|c:\\users\\personal\\source\\repos\\chatapp\\chatapp.api\\chatapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8F659705-7262-4C82-BFE9-161CC211C627}|ChatApp.API\\ChatApp.API.csproj|solutionrelative:chatapp.api\\chatapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatApp.API",
-              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.API\\ChatApp.API.csproj",
-              "RelativeDocumentMoniker": "ChatApp.API\\ChatApp.API.csproj",
-              "ToolTip": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.API\\ChatApp.API.csproj",
-              "RelativeToolTip": "ChatApp.API\\ChatApp.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-27T04:26:49.071Z",
-              "EditorCaption": ""
             }
           ]
         }

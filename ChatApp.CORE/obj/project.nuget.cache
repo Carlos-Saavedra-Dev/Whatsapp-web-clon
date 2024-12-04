@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "x86fAs2FJJxKIFwc8Rj0TAfRUNV01fJIMnAdTZYIr607WGmMsDhinqdG/kgYPQu+RWVDjaz5GUv1DFgwwUTQEQ==",
+  "dgSpecHash": "vPaDVs5tNrH4kVKY7K5kNtkgl/pvr2X3Bqnt75DVmdYwxIQxTjFH3wXR9EV3j3Q/rGuS4C1aoJX3QFBMxAa6wA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.CORE\\ChatApp.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Personal\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

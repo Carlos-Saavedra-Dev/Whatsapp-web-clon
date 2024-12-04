@@ -18,10 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ChatApp.APPLICATION\ChatApp.Application.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Repositories\" />
+    <ProjectReference Include="..\ChatApp.CORE\ChatApp.Core.csproj" />
   </ItemGroup>
 
 </Project>
