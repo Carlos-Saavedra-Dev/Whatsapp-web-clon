@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "3Rp7MzCbZJkoMQ4Ue8OlEeC397KS9uThO+wjFfcffYc=",
+  "Hash": "aKjfMqAxq+vIgd8hMre720Qyoomoz4wX3dgO7GWbH5Q=",
   "Source": "ChatApp.Core",
   "BasePath": "_content/ChatApp.Core",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Personal\\source\\repos\\ChatApp\\ChatApp.APPLICATION\\ChatApp.Application.csproj",
+      "Version": 2,
+      "Source": "ChatApp.Application",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

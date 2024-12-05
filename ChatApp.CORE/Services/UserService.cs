@@ -17,9 +17,9 @@ namespace ChatApp.Core.Services
         }
         public async Task<bool> RegisterUser(UserRegisterDto userRegisterDto)
         {
-            if (await _userRepository.isEmailTaken(userRegisterDto.Email)) 
+            if (await _userRepository.isPhoneTaken(userRegisterDto.PhoneNumber)) 
             {
-                throw new Exception("Email is already in use");
+                throw new Exception("Phone is already in use");
             }
 
             var hashedPassword = BCrypt.Net.BCrypt.HashPassword(userRegisterDto.Password);
@@ -27,9 +27,9 @@ namespace ChatApp.Core.Services
             var user = new User
             {
                 Id = Guid.NewGuid(),
-                Name = userRegisterDto.Username,
-                Email = userRegisterDto.Email,
-                PasswordHash = hashedPassword
+                Username = userRegisterDto.Username,
+                PhoneNumber = userRegisterDto.PhoneNumber,
+                HashedPassword = hashedPassword
 
             };
 

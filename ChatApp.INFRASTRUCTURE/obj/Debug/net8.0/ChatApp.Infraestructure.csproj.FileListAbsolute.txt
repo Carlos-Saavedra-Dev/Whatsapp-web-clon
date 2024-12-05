@@ -178,3 +178,5 @@ C:\Users\Personal\source\repos\ChatApp\ChatApp.INFRASTRUCTURE\obj\Debug\net8.0\r
 C:\Users\Personal\source\repos\ChatApp\ChatApp.INFRASTRUCTURE\obj\Debug\net8.0\ChatApp.Infraestructure.pdb
 C:\Users\Personal\source\repos\ChatApp\ChatApp.INFRASTRUCTURE\obj\Debug\net8.0\ChatApp.Infraestructure.genruntimeconfig.cache
 C:\Users\Personal\source\repos\ChatApp\ChatApp.INFRASTRUCTURE\obj\Debug\net8.0\ref\ChatApp.Infraestructure.dll
+C:\Users\Personal\source\repos\ChatApp\ChatApp.INFRASTRUCTURE\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Personal\source\repos\ChatApp\ChatApp.INFRASTRUCTURE\obj\Debug\net8.0\ChatApp.Infraestructure.sourcelink.json

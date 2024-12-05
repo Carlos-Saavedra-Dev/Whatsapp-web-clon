@@ -18,6 +18,14 @@ namespace ChatApp.Infraestructure.Data
         {
             // Configure relationships and constraints
 
+            //User 
+            modelBuilder.Entity<User>()
+            .ToTable("User")
+            .Property(u => u.CreatedAt)
+            .HasColumnType("datetime")
+            .HasDefaultValueSql("GETDATE()"); // Use SQL function for default value
+                                      // Map the User entity to the User table
+
             //UserChat
             modelBuilder.Entity<UserChat>()
                 .HasOne(uc => uc.User)

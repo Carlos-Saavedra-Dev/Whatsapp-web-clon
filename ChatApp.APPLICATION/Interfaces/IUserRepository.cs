@@ -4,7 +4,7 @@ namespace ChatApp.Application.Interfaces
 {
     public interface IUserRepository
     {
-        Task<bool> isEmailTaken(string email);
+        Task<bool> isPhoneTaken(string email);
         Task CreatedUser(User user);
     }
 }

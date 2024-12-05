@@ -14,14 +14,14 @@ namespace ChatApp.Infraestructure.Repositories
             _context = context;
         }
 
-        public async Task<bool> isEmailTaken (string email)
+        public async Task<bool> isPhoneTaken (string PhoneNumber)
         {
-            return await _context.Users.AnyAsync(u => u.Email == email);
+            return await _context.Users.AnyAsync(u => u.PhoneNumber == PhoneNumber);
         }
 
         public async Task CreatedUser(User user)
         {
-            _context.Users.Add(user);
+            await _context.Users.AddAsync(user);
 
             await _context.SaveChangesAsync();
         }

@@ -1,6 +1,3 @@
-C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\ChatApp.Core.deps.json
-C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\ChatApp.Core.runtimeconfig.json
-C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\ChatApp.Core.exe
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\appsettings.json
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\ChatApp.Application.exe
@@ -12,8 +9,6 @@ C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\Micr
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\ChatApp.Core.dll
-C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\bin\Debug\net8.0\ChatApp.Core.pdb
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\ChatApp.Application.csproj.AssemblyReference.cache
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\ChatApp.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\ChatApp.Application.AssemblyInfoInputs.cache
@@ -35,3 +30,4 @@ C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\refi
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\ChatApp.Application.pdb
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\ChatApp.Application.genruntimeconfig.cache
 C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\ref\ChatApp.Application.dll
+C:\Users\Personal\source\repos\ChatApp\ChatApp.APPLICATION\obj\Debug\net8.0\ChatApp.Application.sourcelink.json

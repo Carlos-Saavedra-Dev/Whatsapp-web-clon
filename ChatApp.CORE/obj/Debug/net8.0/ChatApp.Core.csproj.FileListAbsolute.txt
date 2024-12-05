@@ -30,3 +30,10 @@ C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\obj\Debug\net8.0\refint\Chat
 C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\obj\Debug\net8.0\ChatApp.Core.pdb
 C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\obj\Debug\net8.0\ChatApp.Core.genruntimeconfig.cache
 C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\obj\Debug\net8.0\ref\ChatApp.Core.dll
+C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\bin\Debug\net8.0\ChatApp.Application.deps.json
+C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\bin\Debug\net8.0\ChatApp.Application.runtimeconfig.json
+C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\bin\Debug\net8.0\ChatApp.Application.exe
+C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\bin\Debug\net8.0\ChatApp.Application.dll
+C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\bin\Debug\net8.0\ChatApp.Application.pdb
+C:\Users\Personal\source\repos\ChatApp\ChatApp.CORE\obj\Debug\net8.0\ChatApp.Core.sourcelink.json
